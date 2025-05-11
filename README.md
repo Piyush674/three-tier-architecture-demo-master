@@ -1,6 +1,6 @@
-# Stan's Robot Shop
+# Piyush's Robot Shop
 
-Use this helm chart to customise your install of Stan's Robot Shop.
+Use this helm chart to customise your install of Piyush's Robot Shop.
 
 ### Helm v2.x
 
